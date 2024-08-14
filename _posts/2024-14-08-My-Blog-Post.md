@@ -1,5 +1,5 @@
 ---
-title: "My Blog Post"
+title: "My-Blog-Post"
 date: 2024-14-08
 ---
 
